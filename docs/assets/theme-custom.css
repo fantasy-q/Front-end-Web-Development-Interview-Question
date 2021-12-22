@@ -1,0 +1,12 @@
+:root {
+  --base-font-family: 'Noto Serif SC', serif;
+
+  /* Change the theme color hue */
+  --theme-hue: 325;
+
+  /* Change the sidebar bullets */
+  --sidebar-nav-link-before-content: '😀';
+
+  --code-theme-background: var(--mono-tint1);
+  --code-theme-text: var(--theme-color);
+}
